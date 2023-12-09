@@ -1,0 +1,19 @@
+{
+  "name": "password-master",
+  "version": "1.0.0",
+  "description": "Simple password generator.",
+  "main": "index.js",
+  "keywords": [
+    "password", "password-generator", "password-master", "generator", "factory"
+  ],
+  "author": "makssein",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/makssein/password-master.git"
+  },
+  "bugs": {
+    "url": "https://github.com/makssein/password-master/issues"
+  },
+  "homepage": "https://github.com/makssein/password-master#readme"
+}
