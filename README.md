@@ -10,7 +10,7 @@ Create a password with options. The password string is returned.
 ```javascript
 let PasswordMaster = require('generate-master');
 
-let PasswordMaster.create({
+let password = PasswordMaster.create({
    length: 20, //default: 10
    uppercase: true, //default: false
    numbers: true, //default: false
