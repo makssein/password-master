@@ -8,7 +8,7 @@
 Create a password with options. The password string is returned.
 
 ```javascript
-let PasswordMaster = require('generate-master');
+let PasswordMaster = require('password-master');
 
 let password = PasswordMaster.create({
    length: 20, //default: 10
